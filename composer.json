@@ -1,0 +1,17 @@
+{
+    "name": "hashmater/wordify-plugin",
+    "description": "This plugin is essential to install with 'Wordify' theme.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Bilal Punjabi",
+            "email": "bilalpunjabi@hashmater.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
